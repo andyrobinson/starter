@@ -3,7 +3,7 @@ layout: blog
 category: blog
 published: true
 splash: "http://placehold.it/1600x500"
-title: Untitled
+title: This is the title for my blog entry
 ---
 
 ##This is my title
