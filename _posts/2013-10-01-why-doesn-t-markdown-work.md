@@ -10,5 +10,3 @@ title: "Why doesn't markdown work???"
 1. item
 2. item
 3. item
-
-
